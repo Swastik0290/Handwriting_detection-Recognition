@@ -1,0 +1,4 @@
+opencv-python
+numpy
+tensorflow>=2.6
+h5py
